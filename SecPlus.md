@@ -1,10 +1,10 @@
 ### Table of Contents
-* [1.0 Threats, Attacks and Vulnerabilities](#1.0-threats-attacks-and-vulnerabilities)
-* [2.0 Technologies and Tools](#2.0-technologies-and-tools)
-* [3.0 Architecture and Design](#3.0-architecture-and-design)
-* [4.0 Identity and Access Management](#4.0-identity-and-access-management)
-* [5.0 Risk Management](#5.0-risk-management)
-* [6.0 Cryptography and PKI](#6.0-cryptography-and-pki)
+* [1.0 Threats, Attacks and Vulnerabilities](#10-threats-attacks-and-vulnerabilities)
+* [2.0 Technologies and Tools](#20-technologies-and-tools)
+* [3.0 Architecture and Design](#30-architecture-and-design)
+* [4.0 Identity and Access Management](#40-identity-and-access-management)
+* [5.0 Risk Management](#50-risk-management)
+* [6.0 Cryptography and PKI](#60-cryptography-and-pki)
 * [Acronyms](#acronyms)
 
 ## 1.0 Threats, Attacks and Vulnerabilities
