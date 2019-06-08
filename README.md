@@ -688,6 +688,7 @@
 * Standard naming convention
 * Account maintenance
 * Group-based access control
+  - Why use it? Assigning permissions to each user individually has a high administrative overhead. Waiting for users to ask will also increase administrative overhead. Although delegating authority to assign permissions might work, it doesn't provide the same level of security as centrally managed groups, and without groups, it will still have a high administrative overhead for someone.
 * Location-based policies
 #### Account policy enforcement: 
 * Credential management
