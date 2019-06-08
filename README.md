@@ -238,6 +238,7 @@
 #### NAC:
 * Dissolvable vs. permanent
 * Host health checks
+  - Network access control (NAC) solutions inspect clients for health after they connect to a network.
 * Agent vs. agentless
 #### Mail gateway:
 * Spam filter
@@ -427,6 +428,7 @@
 #### Segregation/segmentation/isolation:
 * Physical
 * Logical (VLAN)
+  - A VLAN provides separation for traffic and can be configured to separate VoIP and data traffic.
 * Virtualization
 * Air gaps
 #### Tunneling/VPN:
