@@ -170,7 +170,11 @@
 #### Firewall:
 * ACL
 * Application-based vs. network-based
+  - A WAF can provide load balancing, but stateful- and stateless cannot.
+  - A host-based firewall provides protection for a single host.
 * Stateful vs. stateless
+  - A stateful firewall filters traffic based on the state of a packet within a session.
+  - A stateless firewall filters traffic using an ACL.
 * Implicit deny
 #### VPN concentrator:
 * Remote access vs. site-to-site
@@ -181,6 +185,7 @@
   * ESP
 * Split tunnel vs. full tunnel
 * TLS
+  - Also used to encrypt mail traffic on protocols such as SMTP (SMTPS).
 * Always-on VPN
 #### NIPS/NIDS:
 * Signature-based
@@ -437,6 +442,7 @@
 * VPN concentrators
 * SSL accelerators
 * Load balancers
+- A WAF (web application firewall) can provide loadbalancing, but stateful and stateless firewalls can.
 * DDoS mitigator
 * Aggregation switches
 * Taps and port mirror
