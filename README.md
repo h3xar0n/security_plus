@@ -39,13 +39,13 @@
 * Hoax
 * Watering hole attack
 * Principles (reasons for effectiveness):
-  * Authority
-  * Intimidation
-  * Consensus
-  * Scarcity
-  * Familiarity
-  * Trust
-  * Urgency
+  - Authority
+  - Intimidation
+  - Consensus
+  - Scarcity
+  - Familiarity
+  - Trust
+  - Urgency
 #### Application/service attacks:
 * DoS
 * DDoS
@@ -64,13 +64,13 @@
 * Replay
 * Pass the hash
 * Hijacking and related attacks:
-  * Clickjacking
-  * Session hijacking
-  * URL hijacking
-  * Typo squatting
+  - Clickjacking
+  - Session hijacking
+  - URL hijacking
+  - Typo squatting
 * Driver manipulation:
-  * Shimming
-  * Refactoring
+  - Shimming
+  - Refactoring
 * MAC spoofing
 * IP spoofing
 #### Wireless attacks:
@@ -91,7 +91,7 @@
 * Rainbow tables
 * Dictionary
 * Brute force:
-  * Online vs. offline
+  - Online vs. offline
 * Collision
 * Downgrade
 * Replay
@@ -179,10 +179,10 @@
 #### VPN concentrator:
 * Remote access vs. site-to-site
 * IPSec:
-  * Tunnel mode
-  * Transport mode
-  * AH
-  * ESP
+  - Tunnel mode
+  - Transport mode
+  - AH
+  - ESP
 * Split tunnel vs. full tunnel
 * TLS
   - Also used to encrypt mail traffic on protocols such as SMTP (SMTPS).
@@ -195,8 +195,8 @@
 * In-band vs. out-of-band
 * Rules
 * Analytics:
-  * False positive
-  * False negative
+  - False positive
+  - False negative
 #### Router:
 * ACLs
 * Antispoofing
@@ -211,8 +211,8 @@
 * Application/multipurpose
 #### Load balancer:
 * Scheduling:
-  * Affinity
-  * Round-robin
+  - Affinity
+  - Round-robin
 * Active-passive
 * Active-active
 * Virtual IPs
@@ -402,16 +402,16 @@
 * Industry-specific frameworks
 #### Benchmarks/secure configuration guides:
 * Platform/vendor-specific guides:
- * Web server
- * Operating system
- * Application server
- * Network infrastructure devices
+  - Web server
+  - Operating system
+  - Application server
+  - Network infrastructure devices
 * General purpose guides
 #### Defense-in-depth/layered security:
 * Vendor diversity
 * Control diversity:
- * Administrative
- * Technical
+  - Administrative
+  - Technical
 * User training
 
 ### 3.2 Given a scenario, implement secure network architecture concepts.
@@ -463,12 +463,12 @@
 * EMI/EMP
 #### Operating systems:
 * Types:
- * Network
- * Server
- * Workstation
- * Appliance
- * Kiosk
- * Mobile OS
+  - Network
+  - Server
+  - Workstation
+  - Appliance
+  - Kiosk
+  - Mobile OS
 * Patch management
 * Disabling unnecessary ports and services
 * Least functionality
@@ -728,12 +728,12 @@
 * Background checks
 * Exit interviews
 * Role-based awareness training:
- * Data owner
- * System administrator
- * System owner
- * User
- * Privileged user
- * Executive user
+  - Data owner
+  - System administrator
+  - System owner
+  - User
+  - Privileged user
+  - Executive user
 * NDA
 * Onboarding
 * Continuing education
@@ -778,13 +778,13 @@
 * Quantitative
 * Qualitative
 * Testing:
- * Penetration testing authorization
- * Vulnerability testing authorization
+  - Penetration testing authorization
+  - Vulnerability testing authorization
 * Risk response techniques:
- * Accept
- * Transfer
- * Avoid
- * Mitigate
+  - Accept
+  - Transfer
+  - Avoid
+  - Mitigate
 #### Change management
 
 ### 5.4 Given a scenario, follow incident response procedures.
@@ -944,9 +944,9 @@
 * RSA
 * DSA
 * Diffie-Hellman:
- * Groups
- * DHE
- * ECDHE
+  - Groups
+  - DHE
+  - ECDHE
 * Elliptic curve
 * PGP/GPG
 #### Hashing algorithms:
